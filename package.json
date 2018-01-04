@@ -1,6 +1,6 @@
 {
   "name": "mapover",
-  "version": "0.10",
+  "version": "0.1.1",
   "description": "functionally maps over multiple arrays at the same time",
   "main": "index.js",
   "repository": "git@github.com:mkdorff/mapover-js.git",

@@ -7,7 +7,14 @@ Codepen [here](https://codepen.io/anon/pen/ZXOGyd?editors=0011)
 
 ## Usage
 
+`
+yarn add mapover
+npm install mapover
+`
+
 ```javascript
+const mapover = require('mapover').mapover;
+
 var newArray = mapover(array1, array2[, array3...], function callback(arg1, arg2[, arg3...]) {
   // return element for newArray
 });
