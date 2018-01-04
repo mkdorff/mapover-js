@@ -1,4 +1,4 @@
-function multimap() {
+exports = function mapover() {
   let arrays = [],
       res = [],
       argix = 0,
