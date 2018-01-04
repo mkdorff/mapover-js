@@ -1,4 +1,4 @@
-exports = function mapover() {
+exports.mapover = function mapover() {
   let arrays = [],
       res = [],
       argix = 0,
