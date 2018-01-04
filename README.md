@@ -7,15 +7,13 @@ Codepen [here](https://codepen.io/anon/pen/ZXOGyd?editors=0011)
 
 ## Usage
 
-yarn
-`
+```
 yarn add mapover
-`
+```
 
-npm
-`
+```
 npm install mapover
-`
+```
 
 ```javascript
 const mapover = require('mapover').mapover;
