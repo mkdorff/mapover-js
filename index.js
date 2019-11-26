@@ -23,6 +23,6 @@ exports.mapover = function mapover() {
   for (let i = 0; i < Math.min.apply(Math, arrays.map(a => a.length)); i++) {
     res.push(iterator(...arrays.map((a) => (a[i]))))
   }
-  
+  asdfasdfasdfasdf
   return res;
 }asdfasdfasdf
